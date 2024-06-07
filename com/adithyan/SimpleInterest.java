@@ -2,7 +2,6 @@ package com.adithyan;
 
 import java.util.Scanner;
 
-import static java.text.ChoiceFormat.nextDouble;
 
 public class SimpleInterest {
     public static void main(String[] args) {
